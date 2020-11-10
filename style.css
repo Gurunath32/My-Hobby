@@ -2,6 +2,26 @@ body {
     text-align: center;
     background-color: yellow;
 }
-img{
-    width: 50%
+
+img {
+    width: 10%;
+    height: 20%;
+}
+
+.link {
+    font-size: 25px;
+    list-style: none;
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.link:hover {
+    background-color: blue;
+}
+
+h1 {
+    font-family: 'Big Shoulders Stencil Text',
+        cursive;
 }
